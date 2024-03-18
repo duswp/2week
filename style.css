@@ -1,0 +1,14 @@
+.profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.picture{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+    background-image: url("https: //img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtEMUl%2FbtrDc6957nj%2FNwJoDw0EOapJNDSNRNZK8K%2Fimg.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
